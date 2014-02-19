@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/asaleh/Android_dev/projects/3_non_client_projects/HelloAndroid/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/asaleh/Android_dev/projects/3_non_client_projects/HelloAndroid/build-types/debug/assets" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/asaleh/Android_dev/projects/3_non_client_projects/HelloAndroid/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/asaleh/Android_dev/projects/3_non_client_projects/HelloAndroid/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">HelloAghyad</string>
+    <string name="app_welcome">This is my first app!!!!!</string>
+    <string name="exit_btn_str">Exit App</string>
+    <string name="hello_world">Hello Aghyad! You\'re testing an app for the first time!</string>
+    <!-- From: file:/Users/asaleh/Android_dev/projects/3_non_client_projects/HelloAndroid/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>

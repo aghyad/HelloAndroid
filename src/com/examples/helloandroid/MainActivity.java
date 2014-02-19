@@ -27,6 +27,7 @@ public class MainActivity extends Activity {
 	}
 
     public void exitOnClick(View v){
+        Log.i(TAG , "Exit functionality is about to execute and exit this app. Byyyyyye!");
         finish();
     }
 
